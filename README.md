@@ -1,6 +1,3 @@
 # Recipe-Website
 
-The current project is empty
-I will have demonstrated basic HTML skills by the end of this project
-
-Eventually, I will style this website using CSS once I learn it
+The current project contains a lasagna.html file, which is referenced/linked in the index.html file. A recipe folder was also recently created.
