@@ -1,3 +1,3 @@
 # Recipe-Website
 
-The current project contains a lasagna.html file, which is referenced/linked in the index.html file. A recipe folder was also recently created.
+The project is now complete. Main page contains links to each recipe, coupled with images, descriptions, ingredients, and steps on how to cook the respective dish.
